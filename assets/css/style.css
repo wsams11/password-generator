@@ -1,0 +1,29 @@
+.container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.heading{
+    margin-bottom: 50px;
+}
+.content{
+    padding: 20px;
+    
+}
+body{
+    background-color: antiquewhite;
+
+}
+.notsure{
+    background-color: white;
+
+}
+
+#buttons{
+    text-align: center;
+}
+.display{
+    width: 100%;
+}
+#password-btn
+}
