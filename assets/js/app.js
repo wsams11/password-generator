@@ -94,8 +94,11 @@ function passwordGenerate() {
     
     
     document.getElementById("password").innerText = password.substring(0, options.length)
-
-
 }
-
+document.getElementById("password").addEventListener("onclick", function () {
+    console.log("password"
+    )
+    // passwordOptions.select;
+    // Document.execCommand("copy");
+});
 // getPasswordOptions();

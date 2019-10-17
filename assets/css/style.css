@@ -11,7 +11,7 @@
     
 }
 body{
-    background-color: #f5f2d0;
+    background-color: lightgrey;
 
 }
 .notsure{
@@ -24,6 +24,11 @@ body{
 }
 .display{
     width: 100%;
+    text-align: center;
 }
-#password-btn
+#password-btn{
+    background-color: red;
+}
+#clipboard-btn{
+    background-color: lightgray;
 }
