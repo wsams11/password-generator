@@ -3,6 +3,7 @@ var lowercase = 'abcdefghijklmnopqrstuvwxyz';
 var uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 var numbers = '0123456789';
 var passwordChars = [];
+var passwordss = document.querySelector("#password").select;
 
 
 document.getElementById("password-btn").addEventListener("click", function () {
@@ -95,10 +96,8 @@ function passwordGenerate() {
     
     document.getElementById("password").innerText = password.substring(0, options.length)
 }
-document.getElementById("password").addEventListener("onclick", function () {
-    console.log("password"
-    )
-    // passwordOptions.select;
-    // Document.execCommand("copy");
-});
-// getPasswordOptions();
+document.getElementById("clipboard-btn").addEventListener("click", function (){
+    document.querySelector("#password").select;
+    document.execCommand("copy");
+    console.log(document.getElementById("password"));
+})
