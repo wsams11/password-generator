@@ -16,3 +16,8 @@ Making a strong password can be hard, use my password generator to generate a ra
 - [HTML/CSS](https://www.w3schools.com/html/html_intro.asp)
 - [BOOTSTRAP](https://getbootstrap.com/)
 - [JavaScript](https://www.javascript.com/)
+
+## Deploy Link
+
+- [Password Generator](https://wsams11.github.io/password-generator/)
+
